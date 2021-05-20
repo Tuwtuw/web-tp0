@@ -6,4 +6,4 @@ Link para meu perfil na Digital Innovation One (DIO):
 Link para baixar meu certificado na DIO:
 <a href="https://certificates.digitalinnovation.one/CACF3589">Certificado</a>
 
-<img src="https://github.com/fegemo/cefet-web/blob/master/images/medalha.png">
+<img src="https://fegemo.github.io/cefet-web/images/medalha-curso-git-na-dio.png">
